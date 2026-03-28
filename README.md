@@ -8,6 +8,7 @@ A production-grade, configuration-driven filtering system built with **React 18*
 
 <img width="1807" height="943" alt="image" src="https://github.com/user-attachments/assets/807d97c6-902b-4986-be8d-35ca41257711" />
 <img width="1683" height="1176" alt="image" src="https://github.com/user-attachments/assets/698b6ffb-c596-4f3c-960e-196b47aee060" />
+
 ---
 
 ## 🛠️ Technical Stack
