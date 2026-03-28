@@ -54,6 +54,7 @@ In addition to the core features, I implemented several high-end UX and design e
 
 ### 2. 👋 Interactive UX & Visual Feedback
 - **Filter Chips Bar**: A dedicated visual field above the data table that displays active filters as color-coded interactive chips (Indigo for Text, Amber for Numbers, Emerald for Dates).
+- **Smart Pagination**: Integrated a full-featured pagination system that allows users to control the number of records displayed per page, ensuring smooth navigation through large datasets.
 - **Tactile Feedback**: 
     - **Apply Progress**: The "Apply Filters" button provides a clear loading/success state sequence.
     - **Validation**: Added a smart top-center notification system that alerts users only if *no* valid filter values are provided.
